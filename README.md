@@ -3,7 +3,7 @@
 
 ## 🎯 Objectif du projet
 
-Ce projet est un **Linktree professionnel personnalisé** réalisé dans le cadre d'un travail journalier scolaire. L'objectif était de créer un Linktree qui me ressemble, tout en respectant des contraintes techniques : HTML et CSS purs, design professionnel, et responsive.
+Ce projet est un **Linktree professionnel personnalisé** réalisé dans le cadre d'un travail journalier scolaire. L'objectif était de créer un Linktree qui me ressemble, tout en respectant des contraintes techniques : HTML, CSS et JavaScript purs, design professionnel, et responsive.
 
 Ce Linktree permet de centraliser les liens importants à destination des recruteurs lorsque je postule pour une alternance.
 
@@ -12,7 +12,7 @@ Ce Linktree permet de centraliser les liens importants à destination des recrut
 
 ## 🛠️ Objectifs & Exigences du projet
 
-- Créer un Linktree **uniquement en HTML et CSS**.
+- Créer un Linktree avec HTML, CSS et JavaScript.
 - Respecter le principe **Mobile First**.
 - Interface **responsive** sans scrolling (contenu 100% visible sur petit écran).
 - Respecter les balises sémantiques : `head`, `header`, `main`, `footer`, `section`, `div`, etc.
@@ -75,10 +75,12 @@ LINKTREE_M/
 
 - **HTML 5**
 - **CSS 3**
+- **JavaScript** (pour les interactions, dont le bouton de partage)
 
-Aucun framework, aucun JavaScript : projet 100% HTML/CSS.
+Projet léger et minimaliste, construit sans framework.
 
----
+
+___
 
 
 ## 👩‍💻 Auteure
